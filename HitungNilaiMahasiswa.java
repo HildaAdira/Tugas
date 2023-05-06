@@ -1,3 +1,6 @@
+//Hilaria iwung
+//227064516036
+
 package hitungnilaimahasiswa;
 import java.util.Scanner;
 
